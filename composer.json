@@ -1,0 +1,23 @@
+{
+  "name": "wp/wp",
+  "type": "project",
+  "description": "wp php crud",
+  "minimum-stability": "stable",
+  "keywords": [],
+  "license": "",
+  "authors": [
+    {
+      "name": "Bashar",
+      "email": "tareq.khan.tk@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\" : "app//"
+    }
+  }
+}
